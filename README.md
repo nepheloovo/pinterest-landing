@@ -2,6 +2,16 @@
 
 按已确认的 A 方案与首屏实现完成的六段式产品落地页。设计方向来自 Planes，内容围绕 Pinterest 的发现、收藏与画板展开。
 
+## GitHub 与在线版本
+
+- 源码仓库：<https://github.com/nepheloovo/pinterest-landing>
+- GitHub Pages 地址：<https://nepheloovo.github.io/pinterest-landing/>
+- `main` 保存完整源码；`gh-pages` 只发布 `dist/` 内的静态成品。
+- 首次配置：仓库 Settings → Pages → Deploy from a branch → `gh-pages` → `/(root)`。
+- 后续修改后先提交，再运行 `bash scripts/deploy-pages.sh`，即可推送源码并更新发布分支。
+
+设计规范位于本仓库 `DESIGN.md`，产品约束位于 `PRODUCT.md`。网页没有构建步骤，`.nojekyll` 用于直接发布静态文件。
+
 ## 查看与修改
 
 网站完整文件在 `dist/`，无需安装依赖或编译。用静态服务器打开该目录即可，例如在本目录执行：
