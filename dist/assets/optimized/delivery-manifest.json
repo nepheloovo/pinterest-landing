@@ -1,0 +1,372 @@
+{
+  "encoder": "Bundled Pillow 12.3.0 / libwebp",
+  "python": "/Users/jessy/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+  "master_total_bytes": 35761426,
+  "delivery_total_bytes": 3012084,
+  "records": [
+    {
+      "source": "assets/plates/photo-arch.png",
+      "source_sha256": "80af8db83b1d1c64b6b156b5aaba24f5b953547a0a3e406f9e0996fef05b6265",
+      "source_dimensions": [
+        1396,
+        1127
+      ],
+      "output": "pinterest-landing/dist/assets/optimized/photo-arch.webp",
+      "output_sha256": "0e3195b14c1cdf645aa7ac0a6e5938c8c093486b87cf08d3543f845c160e7e81",
+      "output_dimensions": [
+        1396,
+        1127
+      ],
+      "output_bytes": 172914,
+      "format": "WebP",
+      "quality": 83,
+      "method": 6,
+      "max_long_edge": 1536,
+      "full_resolution_psnr_db": 37.81,
+      "exact_original_generation_prompt": "pinterest-landing/dist/assets/optimized/photo-arch.prompt.txt",
+      "provenance_storage": "impeccable embed-prompt sidecar fallback: pinterest-landing/dist/assets/optimized/photo-arch.webp.json",
+      "operations": [
+        "proportional downsample only when long edge exceeds 1536",
+        "WebP encoding; no crop, retouch or creative edit"
+      ]
+    },
+    {
+      "source": "assets/plates/photo-ceramics.png",
+      "source_sha256": "6d45290211a7651298617d2208906af1e54b72817e0a46889444d5bf66ebc4ad",
+      "source_dimensions": [
+        1024,
+        1536
+      ],
+      "output": "pinterest-landing/dist/assets/optimized/photo-ceramics.webp",
+      "output_sha256": "32026f59325b8a832dddf5787bc2da47befd6a40e5eb81e2eef33d3123f6f307",
+      "output_dimensions": [
+        1024,
+        1536
+      ],
+      "output_bytes": 179698,
+      "format": "WebP",
+      "quality": 83,
+      "method": 6,
+      "max_long_edge": 1536,
+      "full_resolution_psnr_db": 37.77,
+      "exact_original_generation_prompt": "pinterest-landing/dist/assets/optimized/photo-ceramics.prompt.txt",
+      "provenance_storage": "impeccable embed-prompt sidecar fallback: pinterest-landing/dist/assets/optimized/photo-ceramics.webp.json",
+      "operations": [
+        "proportional downsample only when long edge exceeds 1536",
+        "WebP encoding; no crop, retouch or creative edit"
+      ]
+    },
+    {
+      "source": "assets/plates/photo-coast.png",
+      "source_sha256": "5d9b2fcf2829579e1a2e64c8fee2e883a772d4ccd047152d68dda3d31c513155",
+      "source_dimensions": [
+        1024,
+        1536
+      ],
+      "output": "pinterest-landing/dist/assets/optimized/photo-coast.webp",
+      "output_sha256": "866060787a641f29371f14234ad4a4e3e775d21d2c83f6fac4b267d5b2cc453b",
+      "output_dimensions": [
+        1024,
+        1536
+      ],
+      "output_bytes": 476764,
+      "format": "WebP",
+      "quality": 83,
+      "method": 6,
+      "max_long_edge": 1536,
+      "full_resolution_psnr_db": 32.09,
+      "exact_original_generation_prompt": "pinterest-landing/dist/assets/optimized/photo-coast.prompt.txt",
+      "provenance_storage": "impeccable embed-prompt sidecar fallback: pinterest-landing/dist/assets/optimized/photo-coast.webp.json",
+      "operations": [
+        "proportional downsample only when long edge exceeds 1536",
+        "WebP encoding; no crop, retouch or creative edit"
+      ]
+    },
+    {
+      "source": "assets/plates/photo-coffee.png",
+      "source_sha256": "b15e428f9186d13d0527a6497902479655e3b2e1bd6b320fae873eebd5923758",
+      "source_dimensions": [
+        1619,
+        972
+      ],
+      "output": "pinterest-landing/dist/assets/optimized/photo-coffee.webp",
+      "output_sha256": "1971e45d2cfefad87276a03a96581a850560b3354068c0c93b42e0e3da06eaad",
+      "output_dimensions": [
+        1536,
+        922
+      ],
+      "output_bytes": 81678,
+      "format": "WebP",
+      "quality": 83,
+      "method": 6,
+      "max_long_edge": 1536,
+      "full_resolution_psnr_db": 40.19,
+      "exact_original_generation_prompt": "pinterest-landing/dist/assets/optimized/photo-coffee.prompt.txt",
+      "provenance_storage": "impeccable embed-prompt sidecar fallback: pinterest-landing/dist/assets/optimized/photo-coffee.webp.json",
+      "operations": [
+        "proportional downsample only when long edge exceeds 1536",
+        "WebP encoding; no crop, retouch or creative edit"
+      ]
+    },
+    {
+      "source": "assets/plates/photo-edge.png",
+      "source_sha256": "3db59e7c07e12c03fafeeaff756a4bf3c781ecaefa43539838420c94b26e1ad3",
+      "source_dimensions": [
+        1024,
+        1536
+      ],
+      "output": "pinterest-landing/dist/assets/optimized/photo-edge.webp",
+      "output_sha256": "710555c8eaf5527cd5d108a92a2f05375bf48baa9a2f067a26d26756c3ec4b88",
+      "output_dimensions": [
+        1024,
+        1536
+      ],
+      "output_bytes": 197426,
+      "format": "WebP",
+      "quality": 83,
+      "method": 6,
+      "max_long_edge": 1536,
+      "full_resolution_psnr_db": 37.13,
+      "exact_original_generation_prompt": "pinterest-landing/dist/assets/optimized/photo-edge.prompt.txt",
+      "provenance_storage": "impeccable embed-prompt sidecar fallback: pinterest-landing/dist/assets/optimized/photo-edge.webp.json",
+      "operations": [
+        "proportional downsample only when long edge exceeds 1536",
+        "WebP encoding; no crop, retouch or creative edit"
+      ]
+    },
+    {
+      "source": "assets/plates/photo-flowers.png",
+      "source_sha256": "cbdd2b6341546da4d11e5221b873812361ec461bc5ce21a0862569f019110576",
+      "source_dimensions": [
+        1024,
+        1536
+      ],
+      "output": "pinterest-landing/dist/assets/optimized/photo-flowers.webp",
+      "output_sha256": "b88933759bd661db4eaf7f53a690e70ee6e115f5fcdde1d125d800d539d24145",
+      "output_dimensions": [
+        1024,
+        1536
+      ],
+      "output_bytes": 104180,
+      "format": "WebP",
+      "quality": 83,
+      "method": 6,
+      "max_long_edge": 1536,
+      "full_resolution_psnr_db": 40.24,
+      "exact_original_generation_prompt": "pinterest-landing/dist/assets/optimized/photo-flowers.prompt.txt",
+      "provenance_storage": "impeccable embed-prompt sidecar fallback: pinterest-landing/dist/assets/optimized/photo-flowers.webp.json",
+      "operations": [
+        "proportional downsample only when long edge exceeds 1536",
+        "WebP encoding; no crop, retouch or creative edit"
+      ]
+    },
+    {
+      "source": "assets/plates/photo-glasses.png",
+      "source_sha256": "4a0eec9d7d86f5d7575dff36156538b3951f20d5b32f76894fb12b5a6bb04f01",
+      "source_dimensions": [
+        1274,
+        1234
+      ],
+      "output": "pinterest-landing/dist/assets/optimized/photo-glasses.webp",
+      "output_sha256": "6cc1bf656be4ee1a16be6e2f49cbefeb847dccbf1250737363b9aeb6871cb32e",
+      "output_dimensions": [
+        1274,
+        1234
+      ],
+      "output_bytes": 149904,
+      "format": "WebP",
+      "quality": 83,
+      "method": 6,
+      "max_long_edge": 1536,
+      "full_resolution_psnr_db": 38.35,
+      "exact_original_generation_prompt": "pinterest-landing/dist/assets/optimized/photo-glasses.prompt.txt",
+      "provenance_storage": "impeccable embed-prompt sidecar fallback: pinterest-landing/dist/assets/optimized/photo-glasses.webp.json",
+      "operations": [
+        "proportional downsample only when long edge exceeds 1536",
+        "WebP encoding; no crop, retouch or creative edit"
+      ]
+    },
+    {
+      "source": "assets/plates/photo-leaf.png",
+      "source_sha256": "00f32e9faa8c7efc73ed7c2cd2367d4b76e006caf4ac3a60b8cd653dd8c83bf6",
+      "source_dimensions": [
+        1156,
+        1360
+      ],
+      "output": "pinterest-landing/dist/assets/optimized/photo-leaf.webp",
+      "output_sha256": "3914ba1356bd2bc88f9a100f7b2c838d4e99d613b375195546d079ddd4dbb53c",
+      "output_dimensions": [
+        1156,
+        1360
+      ],
+      "output_bytes": 206212,
+      "format": "WebP",
+      "quality": 83,
+      "method": 6,
+      "max_long_edge": 1536,
+      "full_resolution_psnr_db": 37.36,
+      "exact_original_generation_prompt": "pinterest-landing/dist/assets/optimized/photo-leaf.prompt.txt",
+      "provenance_storage": "impeccable embed-prompt sidecar fallback: pinterest-landing/dist/assets/optimized/photo-leaf.webp.json",
+      "operations": [
+        "proportional downsample only when long edge exceeds 1536",
+        "WebP encoding; no crop, retouch or creative edit"
+      ]
+    },
+    {
+      "source": "assets/plates/photo-mountains.png",
+      "source_sha256": "bcd04c569df363e3133fa9f8b51219fec56363ab3d895fd0c3c7f19588a8816d",
+      "source_dimensions": [
+        1034,
+        1521
+      ],
+      "output": "pinterest-landing/dist/assets/optimized/photo-mountains.webp",
+      "output_sha256": "d2a2440950bb4bd3aec2a598adff988856be9ce3203d82ad4ffbdc49513c42e5",
+      "output_dimensions": [
+        1034,
+        1521
+      ],
+      "output_bytes": 379360,
+      "format": "WebP",
+      "quality": 83,
+      "method": 6,
+      "max_long_edge": 1536,
+      "full_resolution_psnr_db": 33.42,
+      "exact_original_generation_prompt": "pinterest-landing/dist/assets/optimized/photo-mountains.prompt.txt",
+      "provenance_storage": "impeccable embed-prompt sidecar fallback: pinterest-landing/dist/assets/optimized/photo-mountains.webp.json",
+      "operations": [
+        "proportional downsample only when long edge exceeds 1536",
+        "WebP encoding; no crop, retouch or creative edit"
+      ]
+    },
+    {
+      "source": "assets/plates/photo-pasta.png",
+      "source_sha256": "8f2d77315bbdf0b2e27ce673625121f9417c0788c722a02805f37765fc3e56c4",
+      "source_dimensions": [
+        1024,
+        1536
+      ],
+      "output": "pinterest-landing/dist/assets/optimized/photo-pasta.webp",
+      "output_sha256": "2068789c24e5eff615bc5e41854527cdbeccd2e38b288816440ddbf46feb9977",
+      "output_dimensions": [
+        1024,
+        1536
+      ],
+      "output_bytes": 214296,
+      "format": "WebP",
+      "quality": 83,
+      "method": 6,
+      "max_long_edge": 1536,
+      "full_resolution_psnr_db": 36.82,
+      "exact_original_generation_prompt": "pinterest-landing/dist/assets/optimized/photo-pasta.prompt.txt",
+      "provenance_storage": "impeccable embed-prompt sidecar fallback: pinterest-landing/dist/assets/optimized/photo-pasta.webp.json",
+      "operations": [
+        "proportional downsample only when long edge exceeds 1536",
+        "WebP encoding; no crop, retouch or creative edit"
+      ]
+    },
+    {
+      "source": "assets/plates/photo-room.png",
+      "source_sha256": "c23b55305b45efeccb2698d2129756968c7f7996d6f65cb5ec1c005495aa1e58",
+      "source_dimensions": [
+        1024,
+        1536
+      ],
+      "output": "pinterest-landing/dist/assets/optimized/photo-room.webp",
+      "output_sha256": "cb5274c7f227a2e232525936a13a13f33aaefb29276d446c67962ec6f577c615",
+      "output_dimensions": [
+        1024,
+        1536
+      ],
+      "output_bytes": 225706,
+      "format": "WebP",
+      "quality": 83,
+      "method": 6,
+      "max_long_edge": 1536,
+      "full_resolution_psnr_db": 37.02,
+      "exact_original_generation_prompt": "pinterest-landing/dist/assets/optimized/photo-room.prompt.txt",
+      "provenance_storage": "impeccable embed-prompt sidecar fallback: pinterest-landing/dist/assets/optimized/photo-room.webp.json",
+      "operations": [
+        "proportional downsample only when long edge exceeds 1536",
+        "WebP encoding; no crop, retouch or creative edit"
+      ]
+    },
+    {
+      "source": "assets/plates/photo-style.png",
+      "source_sha256": "b2e631d56399364180ef652c84d7cdd49d2bc1a5c570c5a35b2a87253f8c8ab5",
+      "source_dimensions": [
+        1024,
+        1536
+      ],
+      "output": "pinterest-landing/dist/assets/optimized/photo-style.webp",
+      "output_sha256": "c6ab448690b4bd4c5163583da0cbd704ee1fc355772523fc916689e98d98fb4a",
+      "output_dimensions": [
+        1024,
+        1536
+      ],
+      "output_bytes": 209448,
+      "format": "WebP",
+      "quality": 83,
+      "method": 6,
+      "max_long_edge": 1536,
+      "full_resolution_psnr_db": 37.31,
+      "exact_original_generation_prompt": "pinterest-landing/dist/assets/optimized/photo-style.prompt.txt",
+      "provenance_storage": "impeccable embed-prompt sidecar fallback: pinterest-landing/dist/assets/optimized/photo-style.webp.json",
+      "operations": [
+        "proportional downsample only when long edge exceeds 1536",
+        "WebP encoding; no crop, retouch or creative edit"
+      ]
+    },
+    {
+      "source": "assets/plates/photo-sunset.png",
+      "source_sha256": "2a927622d37b9170b94a1ceabf2791c3bdc9e4aece81fad974a0d483a7aed0a8",
+      "source_dimensions": [
+        1080,
+        1456
+      ],
+      "output": "pinterest-landing/dist/assets/optimized/photo-sunset.webp",
+      "output_sha256": "44703f0390c81775bcf2ed80d077081e00b6291ac13b21a7f8e5b092983a0a44",
+      "output_dimensions": [
+        1080,
+        1456
+      ],
+      "output_bytes": 183256,
+      "format": "WebP",
+      "quality": 83,
+      "method": 6,
+      "max_long_edge": 1536,
+      "full_resolution_psnr_db": 36.08,
+      "exact_original_generation_prompt": "pinterest-landing/dist/assets/optimized/photo-sunset.prompt.txt",
+      "provenance_storage": "impeccable embed-prompt sidecar fallback: pinterest-landing/dist/assets/optimized/photo-sunset.webp.json",
+      "operations": [
+        "proportional downsample only when long edge exceeds 1536",
+        "WebP encoding; no crop, retouch or creative edit"
+      ]
+    },
+    {
+      "source": "assets/plates/photo-villa.png",
+      "source_sha256": "30386fc594bd79a686ff418ebe9a9223384f473c0ae3559ee585da215e618f17",
+      "source_dimensions": [
+        1692,
+        930
+      ],
+      "output": "pinterest-landing/dist/assets/optimized/photo-villa.webp",
+      "output_sha256": "8c3fc0eec35fb3cf7fb3050509ecc331ae5ed0200f2f64d8471144a8729af690",
+      "output_dimensions": [
+        1536,
+        844
+      ],
+      "output_bytes": 231242,
+      "format": "WebP",
+      "quality": 83,
+      "method": 6,
+      "max_long_edge": 1536,
+      "full_resolution_psnr_db": 34.76,
+      "exact_original_generation_prompt": "pinterest-landing/dist/assets/optimized/photo-villa.prompt.txt",
+      "provenance_storage": "impeccable embed-prompt sidecar fallback: pinterest-landing/dist/assets/optimized/photo-villa.webp.json",
+      "operations": [
+        "proportional downsample only when long edge exceeds 1536",
+        "WebP encoding; no crop, retouch or creative edit"
+      ]
+    }
+  ]
+}
